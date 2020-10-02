@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "fontend-books-manager"
+    }
+  },
+  "defaultProject": "fontend-books-manager",
+  "cli": {
+    "analytics": "c8c71d56-ca19-478a-93e3-8e5737cc0d04"
+  }
 }
